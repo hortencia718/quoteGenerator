@@ -26,3 +26,5 @@ document.getElementById('quote').innerHTML = quote;
 document.getElementById('author').innerHTML = author;
 
 }
+
+// feels like summer
